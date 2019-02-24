@@ -1,5 +1,5 @@
 # VPG
-| Optimizer  | <function relu at 0x10c4e1048> | <function relu6 at 0x10cb17268> | <function crelu at 0x10cb17158> | <function elu at 0x10c4e0a60> | <function selu at 0x10c4e1488> | <function softplus at 0x10c4e1bf8> | <function softsign at 0x10c4e1e18> | <function sigmoid at 0x10c597598> | <function tanh at 0x10c389158> || GradientDescentOptimizer | :white_check_mark: |
+| Optimizer  | tf.nn.relu | tf.nn.relu6 | tf.nn.crelu | tf.nn.elu | tf.nn.selu | tf.nn.softplus | tf.nn.softsign | tf.sigmoid | tf.tanh || GradientDescentOptimizer | :white_check_mark: |
 | MomentumOptimizer | :white_check_mark: |
 | ProximalAdagradOptimizer | :white_check_mark: |
 | ProximalGradientDescentOptimizer | :white_check_mark: |
