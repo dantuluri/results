@@ -8,20 +8,20 @@
 | AdagradOptimizer | :white_check_mark: |
 | AdamOptimizer | :white_check_mark: |
 | FtrlOptimizer | :white_check_mark: |
-| GradientDescentOptimizer | Enduro, Pacman, Montezuma |
-| MomentumOptimizer | Enduro, Pacman, Montezuma |
-| ProximalAdagradOptimizer | Enduro, Pacman, Montezuma |
-| ProximalGradientDescentOptimizer | Enduro, Pacman, Montezuma |
-| RMSPropOptimizer | Enduro, Pacman, Montezuma |
-| AdaMaxOptimizer | Enduro, Pacman, Montezuma |
-| AdamGSOptimizer | Enduro, Pacman, Montezuma |
-| AdamWOptimizer | Enduro, Pacman, Montezuma |
-| AddSignOptimizer | Enduro, Pacman, Montezuma |
-| GGTOptimizer |
-| LARSOptimizer |
-| LazyAdamGSOptimizer |
-| LazyAdamOptimizer |
-| MomentumWOptimizer |
+| GradientDescentOptimizer | Walker and Lunar |
+| MomentumOptimizer | Walker and Lunar |
+| ProximalAdagradOptimizer | Walker and Lunar |
+| ProximalGradientDescentOptimizer | Walker and Lunar |
+| RMSPropOptimizer | Walker and Lunar |
+| AdaMaxOptimizer | Walker and Lunar |
+| AdamGSOptimizer | Walker and Lunar |
+| AdamWOptimizer | Walker and Lunar |
+| AddSignOptimizer | Walker and Lunar |
+| GGTOptimizer | Lunar |
+| LARSOptimizer | :white_check_mark: |
+| LazyAdamGSOptimizer | :white_check_mark: |
+| LazyAdamOptimizer | :white_check_mark: |
+| MomentumWOptimizer | Walker and Lunar |
 | NadamOptimizer |
 | PowerSignOptimizer |
 | RegAdagradOptimizer |
