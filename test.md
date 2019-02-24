@@ -1,13 +1,5 @@
 # VPG
-| Optimizer  | tf.nn.relu |
-|----| tf.nn.relu6 |
-|----| tf.nn.crelu |
-|----| tf.nn.elu |
-|----| tf.nn.selu |
-|----| tf.nn.softplus |
-|----| tf.nn.softsign |
-|----| tf.sigmoid |
-|----| tf.tanh |
+| Optimizer  | tf.nn.relu | tf.nn.relu6 | tf.nn.crelu | tf.nn.elu | tf.nn.selu | tf.nn.softplus | tf.nn.softsign | tf.sigmoid | tf.tanh |
 |----|--|--|--|--|--|--|--|--|--|
 | GradientDescentOptimizer | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | MomentumOptimizer | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
